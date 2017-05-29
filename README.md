@@ -3,6 +3,12 @@ Lune is a fully open-source one-page template build with HTML and CSS. It is sui
 
 ## Preview
 
+### Visit
+
+[Live Preview](https://apvarun.github.io/Lune/)
+
+### Screenshot
+
 ![Lune responsive template](preview.png)
 
 ## Built With
